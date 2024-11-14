@@ -8,6 +8,7 @@ public class Main {
         int edad = 25;
         boolean status = true;
         Automovil auto =new Automovil();
+        auto.cambioAceite();
 
 
     }
