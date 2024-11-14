@@ -10,6 +10,6 @@ public class Automovil extends Vehiculo {
     }
 
     public void cambioAceite() {
-        System.out.println("se cambio aceite al automovil siempre sabremos la verdad senores  ");
+        System.out.println("se cambio aceite al automovil siempre sabremos la verdad senores , tambien limpiaremos el motor y cambiaremos de llantas don juan  ");
     }
 }
